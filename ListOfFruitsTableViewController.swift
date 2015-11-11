@@ -3,6 +3,7 @@
 //  ListOfFruts
 //
 //  Created by Diego Gomes on 11/11/2015.
+//  Follow me @Nylondev
 //  Copyright © 2015 Nylon. All rights reserved.
 //
 
